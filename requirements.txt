@@ -1,0 +1,6 @@
+cryptography
+pycryptodome
+scapy
+dnspython
+python-dotenv
+requests
